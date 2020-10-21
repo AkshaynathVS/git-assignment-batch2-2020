@@ -1,3 +1,8 @@
+#BASIC GIT COMMANDS
+##Heading 2
+__Bold__
+_italicized_ 
+* [akshaynath@qburst.com] This is my mail id
 git config
 git init
 git clone
